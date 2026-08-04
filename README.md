@@ -27,6 +27,14 @@
 
 <sub>Więcej szczegółów technicznych i architektury pokażę chętnie na rozmowie.</sub>
 
+### Open source
+
+| Projekt | Opis | Repo |
+|---|---|---|
+| **route-cost-engine** | Silnik liczenia pełnego kosztu podróży autem (winiety, opłaty drogowe, parking). Czysta domena, architektura heksagonalna, w pełni otestowany, CI. | [LuckyTexass/route-cost-engine](https://github.com/LuckyTexass/route-cost-engine) |
+
+<sub>Wycinek warsztatu (clean-room) - pokazuje podejście do architektury, testów i CI bez kodu produktów komercyjnych.</sub>
+
 ### Stack
 **Języki:** `JavaScript` · `TypeScript` · `SQL` · `Python` · `HTML / CSS`
 **Frontend:** `React` · `Next.js` · `Tailwind`
