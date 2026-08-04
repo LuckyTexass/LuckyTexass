@@ -28,9 +28,10 @@
 <sub>Więcej szczegółów technicznych i architektury pokażę chętnie na rozmowie.</sub>
 
 ### Stack
-**Frontend:** `TypeScript` · `React` · `Next.js` · `Tailwind`
-**Backend:** `Node.js` · `Python` · `PostgreSQL / Supabase` · `REST API`
-**Infra i integracje:** `Vercel` · `Stripe` · `Webhooki / cron` · `CI/CD`
+**Języki:** `JavaScript` · `TypeScript` · `SQL` · `Python` · `HTML / CSS`
+**Frontend:** `React` · `Next.js` · `Tailwind`
+**Backend:** `Node.js` · `PostgreSQL / Supabase` · `REST API`
+**Infra i integracje:** `Linux / VPS` · `Vercel` · `Stripe` · `CI/CD` · `Webhooki / cron`
 
 ### Kontakt
 **gracjan@pxlmedia.pl** · [pxlmedia.pl](https://www.pxlmedia.pl)
