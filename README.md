@@ -39,7 +39,7 @@
 
 ### Open source - próbki warsztatu
 
-Cztery samodzielne biblioteki (clean-room, bez kodu produktów) - każda pokazuje inną kompetencję: czysta domena, architektura heksagonalna, testy i zielone CI.
+Pięć samodzielnych bibliotek (clean-room, bez kodu produktów) - każda pokazuje inną kompetencję: czysta domena, architektura heksagonalna, testy i zielone CI.
 
 | Projekt | Co pokazuje | Status |
 |---|---|---|
@@ -47,6 +47,7 @@ Cztery samodzielne biblioteki (clean-room, bez kodu produktów) - każda pokazuj
 | **[slot-scheduler](https://github.com/LuckyTexass/slot-scheduler)** | System rezerwacyjny - wyznaczanie wolnych terminów, kolizje, bufory. | 26 testów · [![CI](https://github.com/LuckyTexass/slot-scheduler/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyTexass/slot-scheduler/actions/workflows/ci.yml) |
 | **[feed-forge](https://github.com/LuckyTexass/feed-forge)** | Python - walidacja i normalizacja product feedu e-commerce (mypy strict). | 20 testów · [![CI](https://github.com/LuckyTexass/feed-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyTexass/feed-forge/actions/workflows/ci.yml) |
 | **[conversion-relay](https://github.com/LuckyTexass/conversion-relay)** | Integracje / tracking server-side - idempotencja, retry z backoff. | 24 testy · [![CI](https://github.com/LuckyTexass/conversion-relay/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyTexass/conversion-relay/actions/workflows/ci.yml) |
+| **[llm-answer-grader](https://github.com/LuckyTexass/llm-answer-grader)** | AI w produkcie - ocena odpowiedzi przez LLM za portem, z guardrails i deterministyczną agregacją. | 24 testy · [![CI](https://github.com/LuckyTexass/llm-answer-grader/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyTexass/llm-answer-grader/actions/workflows/ci.yml) |
 
 ### Automatyzacje i integracje
 
