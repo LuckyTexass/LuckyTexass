@@ -37,22 +37,22 @@
 <text class="logo wipe" x="40" y="256" fill="#26a641" style="animation-delay:1.56s">██║   ██║╚════██║</text>
 <text class="logo wipe" x="40" y="276" fill="#26a641" style="animation-delay:1.68s">╚██████╔╝███████║</text>
 <text class="logo wipe" x="40" y="296" fill="#006d32" style="animation-delay:1.80s"> ╚═════╝ ╚══════╝</text>
-<text class="row" x="300" y="112" style="animation-delay:1.60s"><tspan class="u">gracjan</tspan><tspan class="v">@</tspan><tspan class="u">github</tspan></text>
-<text class="row" x="300" y="136" style="animation-delay:1.68s"><tspan class="d">--------------</tspan></text>
-<text class="row" x="300" y="160" style="animation-delay:1.76s"><tspan class="key">Rola:</tspan><tspan class="v" x="404">Full-Stack Engineer, produkty od zera do produkcji</tspan></text>
-<text class="row" x="300" y="184" style="animation-delay:1.84s"><tspan class="key">Produkty:</tspan><tspan class="v" x="404">Roadence, Matura Ustna AI, CWave Workspace, Vento Profit</tspan></text>
-<text class="row" x="300" y="208" style="animation-delay:1.92s"><tspan class="key">Działka:</tspan><tspan class="v" x="404">agregatory, systemy rezerwacyjne, SaaS, marketplace</tspan></text>
-<text class="row" x="300" y="232" style="animation-delay:2.00s"><tspan class="key">Frontend:</tspan><tspan class="v" x="404">React, Next.js, TypeScript, Tailwind, PWA</tspan></text>
-<text class="row" x="300" y="256" style="animation-delay:2.08s"><tspan class="key">Backend:</tspan><tspan class="v" x="404">Node.js, PostgreSQL / Supabase, Python, REST API</tspan></text>
-<text class="row" x="300" y="280" style="animation-delay:2.16s"><tspan class="key">Infra:</tspan><tspan class="v" x="404">Linux / VPS, Vercel, CI/CD, webhooki i crony</tspan></text>
-<text class="row" x="300" y="304" style="animation-delay:2.24s"><tspan class="key">Integracje:</tspan><tspan class="v" x="404">Stripe, Meta CAPI, Google Ads API, IdoSell</tspan></text>
-<text class="row" x="300" y="328" style="animation-delay:2.32s"><tspan class="key">AI:</tspan><tspan class="v" x="404">LLM w produkcie, ocena odpowiedzi, guardrails</tspan></text>
-<text class="row" x="300" y="352" style="animation-delay:2.40s"><tspan class="key">Kontakt:</tspan><tspan class="v" x="404">gracjan@pxlmedia.pl</tspan></text>
-<rect class="row" x="300" y="368" width="24" height="14" rx="3" fill="#ff7b72" style="animation-delay:2.48s"/>
-<rect class="row" x="328" y="368" width="24" height="14" rx="3" fill="#ffa657" style="animation-delay:2.53s"/>
-<rect class="row" x="356" y="368" width="24" height="14" rx="3" fill="#d29922" style="animation-delay:2.58s"/>
-<rect class="row" x="384" y="368" width="24" height="14" rx="3" fill="#39d353" style="animation-delay:2.63s"/>
-<rect class="row" x="412" y="368" width="24" height="14" rx="3" fill="#79c0ff" style="animation-delay:2.68s"/>
-<rect class="row" x="440" y="368" width="24" height="14" rx="3" fill="#d2a8ff" style="animation-delay:2.73s"/>
-<rect class="row" x="468" y="368" width="24" height="14" rx="3" fill="#e6edf3" style="animation-delay:2.78s"/>
+<text class="row" x="268" y="112" style="animation-delay:1.60s"><tspan class="u">gracjan</tspan><tspan class="v">@</tspan><tspan class="u">github</tspan></text>
+<text class="row" x="268" y="136" style="animation-delay:1.68s"><tspan class="d">--------------</tspan></text>
+<text class="row" x="268" y="160" style="animation-delay:1.76s"><tspan class="key">Rola:</tspan><tspan class="v" x="372">Full-Stack Engineer, produkty od zera do produkcji</tspan></text>
+<text class="row" x="268" y="184" style="animation-delay:1.84s"><tspan class="key">Produkty:</tspan><tspan class="v" x="372">Roadence, Matura Ustna AI, CWave Workspace, Vento Profit</tspan></text>
+<text class="row" x="268" y="208" style="animation-delay:1.92s"><tspan class="key">Działka:</tspan><tspan class="v" x="372">agregatory, systemy rezerwacyjne, SaaS, marketplace</tspan></text>
+<text class="row" x="268" y="232" style="animation-delay:2.00s"><tspan class="key">Frontend:</tspan><tspan class="v" x="372">React, Next.js, TypeScript, Tailwind, PWA</tspan></text>
+<text class="row" x="268" y="256" style="animation-delay:2.08s"><tspan class="key">Backend:</tspan><tspan class="v" x="372">Node.js, PostgreSQL / Supabase, Python, REST API</tspan></text>
+<text class="row" x="268" y="280" style="animation-delay:2.16s"><tspan class="key">Infra:</tspan><tspan class="v" x="372">Linux / VPS, Vercel, CI/CD, webhooki i crony</tspan></text>
+<text class="row" x="268" y="304" style="animation-delay:2.24s"><tspan class="key">Integracje:</tspan><tspan class="v" x="372">Stripe, Meta CAPI, Google Ads API, IdoSell</tspan></text>
+<text class="row" x="268" y="328" style="animation-delay:2.32s"><tspan class="key">AI:</tspan><tspan class="v" x="372">LLM w produkcie, ocena odpowiedzi, guardrails</tspan></text>
+<text class="row" x="268" y="352" style="animation-delay:2.40s"><tspan class="key">Kontakt:</tspan><tspan class="v" x="372">gracjan@pxlmedia.pl</tspan></text>
+<rect class="row" x="268" y="368" width="24" height="14" rx="3" fill="#ff7b72" style="animation-delay:2.48s"/>
+<rect class="row" x="296" y="368" width="24" height="14" rx="3" fill="#ffa657" style="animation-delay:2.53s"/>
+<rect class="row" x="324" y="368" width="24" height="14" rx="3" fill="#d29922" style="animation-delay:2.58s"/>
+<rect class="row" x="352" y="368" width="24" height="14" rx="3" fill="#39d353" style="animation-delay:2.63s"/>
+<rect class="row" x="380" y="368" width="24" height="14" rx="3" fill="#79c0ff" style="animation-delay:2.68s"/>
+<rect class="row" x="408" y="368" width="24" height="14" rx="3" fill="#d2a8ff" style="animation-delay:2.73s"/>
+<rect class="row" x="436" y="368" width="24" height="14" rx="3" fill="#e6edf3" style="animation-delay:2.78s"/>
 </svg>

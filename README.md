@@ -65,12 +65,6 @@ Poza produktami napisałem dziesiątki automatyzacji spinających sklepy, system
 - **Wac Toja** - integracje reklamowo-analityczne i automatyczny reporting kampanii.
 - **HS All Stars** - automatyczne redirecty śledzące, generowanie i obsługa biletów QR, mailingi eventowe.
 
-### Stack
-**Języki:** `JavaScript` · `TypeScript` · `SQL` · `Python` · `HTML / CSS`
-**Frontend:** `React` · `Next.js` · `Tailwind` · `PWA`
-**Backend:** `Node.js` · `PostgreSQL / Supabase` · `REST API`
-**Infra i integracje:** `Linux / VPS` · `Vercel` · `Stripe` · `Meta CAPI` · `Google Ads API` · `CI/CD` · `Webhooki / cron`
-
 ### Kontakt
 **gracjan@pxlmedia.pl** · [pxlmedia.pl](https://www.pxlmedia.pl) · [LinkedIn](https://www.linkedin.com/in/gracjan-szymczak-481308242/)
 

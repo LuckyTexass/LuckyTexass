@@ -40,7 +40,7 @@ WIDTH = 860
 LOGO_SIZE = 17
 LOGO_LINE = 20  # znaki ramek w Menlo mają ~1.17em, więc linie się stykają bez przerw
 LOGO_X, LOGO_Y = 40, 196
-INFO_X, VALUE_X, INFO_Y, INFO_LINE = 300, 404, 100, 24
+INFO_X, VALUE_X, INFO_Y, INFO_LINE = 268, 372, 100, 24
 
 
 def main() -> None:
