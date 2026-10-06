@@ -12,6 +12,12 @@
   <a href="mailto:gracjan@pxlmedia.pl">gracjan@pxlmedia.pl</a>
 </p>
 
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="860" alt="Graf kontrybucji Gracjana Szymczaka" />
+  <br><br>
+  <img src="./info-card.svg" width="860" alt="Gracjan Szymczak: Full-Stack Engineer, stack i kontakt" />
+</p>
+
 ---
 
 ### Jak pracuję

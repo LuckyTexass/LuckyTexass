@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="412" viewBox="0 0 860 412" role="img" aria-label="neofetch">
+  <style>
+      .p { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #39d353; }
+      .k { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #e6edf3; }
+      .t { font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #7d8590; }
+      .cmd { clip-path: inset(0 100% 0 0); animation: type 0.9s steps(8) .2s forwards; }
+      @keyframes type { to { clip-path: inset(0 0 0 0); } }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+        
+      .logo { font: 700 17px/1 ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+      .row { font: 13px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .u { fill: #39d353; font-weight: 700; }
+      .d { fill: #c9d1d9; }
+      .key { fill: #79c0ff; font-weight: 700; }
+      .v { fill: #c9d1d9; }
+    
+      .wipe { clip-path: inset(0 100% 0 0); animation: wipe .5s steps(17) forwards; }
+      @keyframes wipe { to { clip-path: inset(0 0 0 0); } }
+      .row { opacity: 0; animation: rise .45s ease-out forwards; }
+      @keyframes rise { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: none; } }
+        
+  </style>
+  <rect x=".5" y=".5" width="859" height="411" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M.5 34 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V34 Z" fill="#161b22"/>
+  <line x1="1" y1="34" x2="859" y2="34" stroke="#30363d"/>
+  <circle cx="20" cy="17" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="17" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="17" r="6" fill="#28c840"/>
+  <text class="t" x="430.0" y="21" text-anchor="middle">gracjan@github: ~</text>
+  <text class="p" x="22" y="62">gracjan@github ~ $</text>
+  <text class="k cmd" x="181.6" y="62">neofetch</text>
+  <rect class="cur" x="252.8" y="50" width="8" height="15" fill="#e6edf3" opacity=".8"/>
+<text class="logo wipe" x="40" y="196" fill="#69f0a0" style="animation-delay:1.20s"> ██████╗ ███████╗</text>
+<text class="logo wipe" x="40" y="216" fill="#39d353" style="animation-delay:1.32s">██╔════╝ ██╔════╝</text>
+<text class="logo wipe" x="40" y="236" fill="#39d353" style="animation-delay:1.44s">██║  ███╗███████╗</text>
+<text class="logo wipe" x="40" y="256" fill="#26a641" style="animation-delay:1.56s">██║   ██║╚════██║</text>
+<text class="logo wipe" x="40" y="276" fill="#26a641" style="animation-delay:1.68s">╚██████╔╝███████║</text>
+<text class="logo wipe" x="40" y="296" fill="#006d32" style="animation-delay:1.80s"> ╚═════╝ ╚══════╝</text>
+<text class="row" x="300" y="112" style="animation-delay:1.60s"><tspan class="u">gracjan</tspan><tspan class="v">@</tspan><tspan class="u">github</tspan></text>
+<text class="row" x="300" y="136" style="animation-delay:1.68s"><tspan class="d">--------------</tspan></text>
+<text class="row" x="300" y="160" style="animation-delay:1.76s"><tspan class="key">Rola:</tspan><tspan class="v" x="404">Full-Stack Engineer, produkty od zera do produkcji</tspan></text>
+<text class="row" x="300" y="184" style="animation-delay:1.84s"><tspan class="key">Produkty:</tspan><tspan class="v" x="404">Roadence, Matura Ustna AI, CWave Workspace, Vento Profit</tspan></text>
+<text class="row" x="300" y="208" style="animation-delay:1.92s"><tspan class="key">Działka:</tspan><tspan class="v" x="404">agregatory, systemy rezerwacyjne, SaaS, marketplace</tspan></text>
+<text class="row" x="300" y="232" style="animation-delay:2.00s"><tspan class="key">Frontend:</tspan><tspan class="v" x="404">React, Next.js, TypeScript, Tailwind, PWA</tspan></text>
+<text class="row" x="300" y="256" style="animation-delay:2.08s"><tspan class="key">Backend:</tspan><tspan class="v" x="404">Node.js, PostgreSQL / Supabase, Python, REST API</tspan></text>
+<text class="row" x="300" y="280" style="animation-delay:2.16s"><tspan class="key">Infra:</tspan><tspan class="v" x="404">Linux / VPS, Vercel, CI/CD, webhooki i crony</tspan></text>
+<text class="row" x="300" y="304" style="animation-delay:2.24s"><tspan class="key">Integracje:</tspan><tspan class="v" x="404">Stripe, Meta CAPI, Google Ads API, IdoSell</tspan></text>
+<text class="row" x="300" y="328" style="animation-delay:2.32s"><tspan class="key">AI:</tspan><tspan class="v" x="404">LLM w produkcie, ocena odpowiedzi, guardrails</tspan></text>
+<text class="row" x="300" y="352" style="animation-delay:2.40s"><tspan class="key">Kontakt:</tspan><tspan class="v" x="404">gracjan@pxlmedia.pl</tspan></text>
+<rect class="row" x="300" y="368" width="24" height="14" rx="3" fill="#ff7b72" style="animation-delay:2.48s"/>
+<rect class="row" x="328" y="368" width="24" height="14" rx="3" fill="#ffa657" style="animation-delay:2.53s"/>
+<rect class="row" x="356" y="368" width="24" height="14" rx="3" fill="#d29922" style="animation-delay:2.58s"/>
+<rect class="row" x="384" y="368" width="24" height="14" rx="3" fill="#39d353" style="animation-delay:2.63s"/>
+<rect class="row" x="412" y="368" width="24" height="14" rx="3" fill="#79c0ff" style="animation-delay:2.68s"/>
+<rect class="row" x="440" y="368" width="24" height="14" rx="3" fill="#d2a8ff" style="animation-delay:2.73s"/>
+<rect class="row" x="468" y="368" width="24" height="14" rx="3" fill="#e6edf3" style="animation-delay:2.78s"/>
+</svg>
