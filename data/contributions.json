@@ -2,7 +2,7 @@
  "user": "LuckyTexass",
  "total": 393,
  "active_days": 48,
- "current_streak": 1,
+ "current_streak": 0,
  "longest_streak": 4,
  "best_day": {
   "date": "2026-08-04",
@@ -1861,6 +1861,11 @@
   },
   {
    "date": "2026-10-07",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-10-08",
    "level": 0,
    "count": 0
   }
